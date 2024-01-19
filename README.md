@@ -1,0 +1,2 @@
+# Diagnostic_Assistant
+大模型项目：基于InternLM大模型的中医诊断助手
